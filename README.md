@@ -1,5 +1,3 @@
-# Lock In Privacy Policy
-
 **Effective date:** November 26, 2026
 
 Lock In is a local-first activity time-tracking app. This Privacy Policy explains how Version 1.0.0 handles information when you use the Android app.
